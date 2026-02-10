@@ -10,7 +10,7 @@ Proste i skuteczne narzędzie do konwersji filmów z platformy YouTube na wysoki
 ## ✨ Funkcje
 - 📥 **Szybkie pobieranie:** Automatyczne pobieranie najwyższej dostępnej jakości audio.
 - 🛠️ **Konwersja MP3:** Automatyczna zmiana formatu przy użyciu FFmpeg.
-- 📂 **Organizacja:** Pliki są zapisywane w dedykowanym folderze wyjściowym.
+- 📂 **Organizacja:** Pliki są zapisywane w dedykowanym folderze wyjściowym. (jeszcze nie są RIP)
 - 📋 **Prosta obsługa:** Wystarczy wkleić link i zatwierdzić.
 
 ---
